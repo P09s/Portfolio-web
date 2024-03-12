@@ -52,4 +52,20 @@ nav ul li a ::after{
     position: absolute;
     left: 0;
     bottom: -6px;
+    transition: 0.5s;
+}
+nav ul li a:hover{
+    width: 100%;
+
+}
+.header-text{
+    margin-top: 20%;
+    font-size: 30px;
+}
+.header-text{
+    font-size: 40px;
+    margin-top: 20px;
+}
+.header-text h1 span{
+    color: #ff004f;
 }
