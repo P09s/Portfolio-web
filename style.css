@@ -99,7 +99,7 @@ nav ul li a:hover{
 .tab-titles{
     display: flex;
     margin: 20px 0 40px;
-    color: #ff004f;
+    
 }
 .tab-links{
     margin-right: 50px;
@@ -128,4 +128,10 @@ nav ul li a:hover{
 .tab-contents ul li span{
     color: #b54769;
     font-size: 14px;
+}
+.tab-contents{
+    display: none;
+}
+.tab-contents.active-tab{
+    display: block;
 }
