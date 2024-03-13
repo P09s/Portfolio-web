@@ -28,7 +28,7 @@ nav{
 }
 
 .logo{
-    width: 200px;
+    width: 140px;
 }
 
 nav ul li{
@@ -99,7 +99,7 @@ nav ul li a:hover{
 .tab-titles{
     display: flex;
     margin: 20px 0 40px;
-    
+
 }
 .tab-links{
     margin-right: 50px;
