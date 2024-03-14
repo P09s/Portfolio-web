@@ -5,6 +5,9 @@
     box-sizing: border-box;
     
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     background: #080808;
     color: #fff;
@@ -15,9 +18,10 @@ body{
     background-image: url(images/PARAG\ \(1\).jpg);
     background-size: cover;
     background-position: center;
+    
 }
 .container{
-    padding: 10px 10%;
+    padding: 20px 10%;
 }
 
 nav{
@@ -68,6 +72,18 @@ nav ul li a:hover::after{
 }
 .header-text h1 span{
     color: #ff004f;
+}
+.header-text a i{
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 15px;
+    color: #ababab;
+    display: inline-block;
+    transition: transform 0.5s;
+}
+.header-text a i:hover{
+    color: #ff004f;
+    transform: translateY(-5px);
 }
 /*------------------------about------------------*/
 #about{
@@ -253,4 +269,7 @@ form btn2{
 }
 .copyright i{
     color: #ff004f;
+}
+.copyright p{
+    color: #ababab;
 }
