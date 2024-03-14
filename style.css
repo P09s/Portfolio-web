@@ -280,11 +280,3 @@ form btn2{
     position: relative;
     overflow: hidden; /* Hide the overflowing gradient */
 }
-
-/*-----------responsive---------------*/
-
-@media only screen and (max-width: 600px){
-    #header{
-        background-image: url();
-    }
-}
