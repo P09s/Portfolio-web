@@ -78,7 +78,7 @@ nav ul li a:hover::after{
 }
 .header-text a i{
     text-decoration: none;
-    font-size: 30px;
+    font-size: 35px;
     margin-right: 15px;
     color: #ababab;
     display: inline-block;
@@ -284,4 +284,9 @@ form btn2{
     background: linear-gradient(to right, transparent, #fff, transparent); /* Gradient background */
     position: relative;
     overflow: hidden; /* Hide the overflowing gradient */
+}
+#msg{
+    color: #61B752;
+    margin-top: -40px;
+    display: block;
 }
