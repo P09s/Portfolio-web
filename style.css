@@ -273,3 +273,18 @@ form btn2{
 .copyright p{
     color: #ababab;
 }
+.divider {
+    width: 100%;
+    height: 1px; /* Height of the divider */
+    background: linear-gradient(to right, transparent, #fff, transparent); /* Gradient background */
+    position: relative;
+    overflow: hidden; /* Hide the overflowing gradient */
+}
+
+/*-----------responsive---------------*/
+
+@media only screen and (max-width: 600px){
+    #header{
+        background-image: url();
+    }
+}
