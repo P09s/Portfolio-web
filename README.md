@@ -21,7 +21,7 @@ To set up the website locally on your machine, follow these steps:
 
 1. **Clone the repository**: 
    ```
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/P09s/Portfolio-web.git
    ```
 
 2. **Navigate into the project directory**:
