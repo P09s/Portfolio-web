@@ -56,6 +56,6 @@ Copyright (c) 2024 Parag Sharma
 
 ## Contact
 
-For any inquiries or questions regarding the website or this repository, please feel free to contact me at sharmaparag2004@gmail.com.
+For any inquiries or questions regarding the website or this repository, please feel free to contact me at sharmaparag2004@gmail.com
 
 Thank you for visiting my portfolio website repository! 😊🚀
