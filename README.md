@@ -5,7 +5,8 @@ Welcome to the repository for my portfolio website! This repository contains all
 ## Overview
 
 This portfolio website serves as a showcase of my work, projects, skills, and experiences. It provides visitors with an insight into my professional background, accomplishments, and aspirations. The website is designed to be visually appealing, easy to navigate, and informative.
-Andthe wbsite is live on netlify !!
+
+And the website is live on netlify !!
 
 ## Technologies Used
 
