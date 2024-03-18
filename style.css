@@ -290,3 +290,11 @@ form btn2{
     margin-top: -40px;
     display: block;
 }
+
+/*--------------for small screens-------------------*/
+
+@media only screen and (max-with: 600px) {
+    #header {
+        background-image: url(images/Phone-background-img.jpg);
+    }
+}
